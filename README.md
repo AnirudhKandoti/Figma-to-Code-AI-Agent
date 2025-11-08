@@ -134,7 +134,7 @@ cd "..\generated-ui"
 npm install
 npm run dev
 # visit http://localhost:5173
-```
+
 
 Project Structure
 
@@ -165,9 +165,9 @@ Troubleshooting:
 
 - Regenerate your PAT with scopes:
 
-Files → Read metadata of files
+ - - Files → Read metadata of files
 
-Files → Read the contents of and render images from files
+ - - Files → Read the contents of and render images from files
 
 - Ensure you’re using the same Figma account that owns/opens the file.
 
@@ -179,7 +179,7 @@ Files → Read the contents of and render images from files
 
 3. 403 on /files/<key> but /v1/me works
 
--You may not have API access to that file. Duplicate it to your Drafts and use that key.
+- You may not have API access to that file. Duplicate it to your Drafts and use that key.
 
 - Vite error: missing plugin or node_modules
 
