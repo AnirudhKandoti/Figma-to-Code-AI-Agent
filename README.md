@@ -1,5 +1,28 @@
 # Figma-to-Code AI Agent (Gemini + LangChain)
 
+## Demo (Selected Screenshots)
+
+### 1) Input: Figma Frame
+Shows the source design with the frame and layers selected (ground truth for the export).
+  
+![Figma frame](docs/screenshots/01_input_figma_frame.png)
+
+### 2) Output: Folder Tree
+Static export / generated code artifacts (e.g., `exported-web/` or `generated-ui/`) and key files.
+  
+![Output folder tree](docs/screenshots/04_output_folder_tree.png)
+
+### 3) UI Schema (Excerpt)
+Normalized JSON the tool builds from Figma (positions, fills/gradients/images, strokes, radii, text styles, effects).
+  
+![ui-schema.json snippet](docs/screenshots/08_schema_json_snippet.png)
+
+### 4) React Code Components (AI Path)
+Generated React + TSX components (LLM path) that compose the page, ready to run with Vite dev server.
+  
+![React components](docs/screenshots/10_react_code_components.png)
+
+
 > **One-command pipeline** that turns **Figma designs** into runnable **React + TypeScript + Tailwind** code using **Google Gemini** with **LangChain**.  
 > Includes an offline sample, clear CLI, and a pluggable writer architecture.
 
