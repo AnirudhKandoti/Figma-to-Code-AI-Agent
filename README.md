@@ -139,6 +139,8 @@ npm run dev
 Project Structure
 
 ```
+```
+
 figma-to-code-ai-agent-v2 (1)/
 ├─ figma-to-code-ai-agent/
 │  ├─ agent/
@@ -154,6 +156,7 @@ figma-to-code-ai-agent-v2 (1)/
 │  └─ .env                       # your secrets (NOT committed)
 ├─ exported-web/                 # output of deterministic web export
 └─ generated-ui/                 # output of AI React export (Vite app)
+```
 
 How It Works (High Level)
 
