@@ -158,51 +158,30 @@ figma-to-code-ai-agent-v2 (1)/
 └─ generated-ui/                 # output of AI React export (Vite app)
 ```
 
-How It Works (High Level)
 
-Fetch Figma: we call /v1/files/<FILE_KEY> (+ /v1/images for image fills) using your PAT.
+Troubleshooting:
 
-Normalize: we walk the Figma node tree and produce a framework-agnostic UISchema:
+1. 403 Invalid token
 
-geometry (x/y/width/height)
-
-fills: solid, gradient (linear/radial), image (downloaded)
-
-vector box properties: stroke, corner radii
-
-text content + typography
-
-effects: drop/inner shadows
-
-Export:
-
-Web: absolute-positioned HTML + CSS (gradients, shadows, images), plus ui-schema.json
-
-React (AI): TSX components via Gemini (LangChain), scaffolded into a Vite app
-
-Troubleshooting
-
-403 Invalid token
-
-Regenerate your PAT with scopes:
+- Regenerate your PAT with scopes:
 
 Files → Read metadata of files
 
 Files → Read the contents of and render images from files
 
-Ensure you’re using the same Figma account that owns/opens the file.
+- Ensure you’re using the same Figma account that owns/opens the file.
 
-We send the token via X-Figma-Token (works even if Bearer doesn’t).
+- We send the token via X-Figma-Token (works even if Bearer doesn’t).
 
-400 File type not supported by this endpoint
+2. 400 File type not supported by this endpoint
 
-Your link is likely a /make/ URL. Open in Figma → Duplicate to Drafts → use the new /file/ or /design/ key.
+- Your link is likely a /make/ URL. Open in Figma → Duplicate to Drafts → use the new /file/ or /design/ key.
 
-403 on /files/<key> but /v1/me works
+3. 403 on /files/<key> but /v1/me works
 
-You may not have API access to that file. Duplicate it to your Drafts and use that key.
+-You may not have API access to that file. Duplicate it to your Drafts and use that key.
 
-Vite error: missing plugin or node_modules
+- Vite error: missing plugin or node_modules
 
-Run npm install inside generated-ui/ before npm run dev.
+- Run npm install inside generated-ui/ before npm run dev.
 
