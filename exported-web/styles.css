@@ -1,0 +1,5 @@
+*{box-sizing:border-box}html,body{height:100%}body{margin:0;background:#f6f7f9;font-family:Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif}
+main{padding:32px}
+.frame{position:relative;margin:40px auto;background:#fff;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.05);overflow:hidden}
+.node{position:absolute;white-space:pre-wrap;color:#111}
+.node.text{pointer-events:none}

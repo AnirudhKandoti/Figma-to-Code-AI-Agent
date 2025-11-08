@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node/Vite
+generated-ui/node_modules/
+generated-ui/.vite/
+generated-ui/dist/
+
+# Env/secrets
+.env
+**/.env
+
+# OS/editor
+.DS_Store
+
+# Build artifacts / caches (optional)
+exported-web/assets/*.tmp

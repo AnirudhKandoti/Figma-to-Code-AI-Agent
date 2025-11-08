@@ -1,0 +1,1183 @@
+{
+  "file_name": "Untitled",
+  "root_frames": [
+    {
+      "id": "5:505",
+      "name": "MacBook Pro 16\" - 1",
+      "type": "FRAME",
+      "bounds": {
+        "x": 241.0,
+        "y": -559.0,
+        "width": 1728.0,
+        "height": 1117.0
+      },
+      "fill": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": null,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": null,
+      "text": null,
+      "text_style": null,
+      "children": [
+        {
+          "id": "4:427",
+          "name": "Button - Liquid Glass - Symbol",
+          "type": "INSTANCE",
+          "bounds": {
+            "x": 474.0,
+            "y": -350.0,
+            "width": 384.0,
+            "height": 204.0
+          },
+          "fill": null,
+          "gradient": null,
+          "effects": [],
+          "image_url": null,
+          "stroke": null,
+          "stroke_width": null,
+          "corner_radius_all": 1000.0,
+          "corner_radius_tl": null,
+          "corner_radius_tr": null,
+          "corner_radius_br": null,
+          "corner_radius_bl": null,
+          "opacity": null,
+          "text": null,
+          "text_style": null,
+          "children": [
+            {
+              "id": "I4:427;5583:23997",
+              "name": "BG",
+              "type": "INSTANCE",
+              "bounds": {
+                "x": 474.0,
+                "y": -350.0,
+                "width": 384.0,
+                "height": 204.0
+              },
+              "fill": null,
+              "gradient": null,
+              "effects": [],
+              "image_url": null,
+              "stroke": null,
+              "stroke_width": null,
+              "corner_radius_all": null,
+              "corner_radius_tl": null,
+              "corner_radius_tr": null,
+              "corner_radius_br": null,
+              "corner_radius_bl": null,
+              "opacity": null,
+              "text": null,
+              "text_style": null,
+              "children": [
+                {
+                  "id": "I4:427;5583:23997;5575:44983",
+                  "name": "Blur",
+                  "type": "FRAME",
+                  "bounds": {
+                    "x": 448.0,
+                    "y": -376.0,
+                    "width": 436.0,
+                    "height": 256.0
+                  },
+                  "fill": null,
+                  "gradient": null,
+                  "effects": [],
+                  "image_url": null,
+                  "stroke": null,
+                  "stroke_width": null,
+                  "corner_radius_all": null,
+                  "corner_radius_tl": null,
+                  "corner_radius_tr": null,
+                  "corner_radius_br": null,
+                  "corner_radius_bl": null,
+                  "opacity": 0.6700000166893005,
+                  "text": null,
+                  "text_style": null,
+                  "children": [
+                    {
+                      "id": "I4:427;5583:23997;5575:75442",
+                      "name": "Mask",
+                      "type": "INSTANCE",
+                      "bounds": {
+                        "x": 398.0,
+                        "y": -426.0,
+                        "width": 536.0,
+                        "height": 356.0
+                      },
+                      "fill": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                      },
+                      "gradient": null,
+                      "effects": [],
+                      "image_url": null,
+                      "stroke": null,
+                      "stroke_width": null,
+                      "corner_radius_all": null,
+                      "corner_radius_tl": null,
+                      "corner_radius_tr": null,
+                      "corner_radius_br": null,
+                      "corner_radius_bl": null,
+                      "opacity": null,
+                      "text": null,
+                      "text_style": null,
+                      "children": [
+                        {
+                          "id": "I4:427;5583:23997;5575:75442;5575:32354",
+                          "name": "Shape",
+                          "type": "RECTANGLE",
+                          "bounds": {
+                            "x": 474.0,
+                            "y": -350.0,
+                            "width": 384.0,
+                            "height": 204.0
+                          },
+                          "fill": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                          },
+                          "gradient": null,
+                          "effects": [],
+                          "image_url": null,
+                          "stroke": null,
+                          "stroke_width": null,
+                          "corner_radius_all": 1000.0,
+                          "corner_radius_tl": null,
+                          "corner_radius_tr": null,
+                          "corner_radius_br": null,
+                          "corner_radius_bl": null,
+                          "opacity": null,
+                          "text": null,
+                          "text_style": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I4:427;5583:23997;5607:83258",
+                      "name": "Blur",
+                      "type": "FRAME",
+                      "bounds": {
+                        "x": 474.0,
+                        "y": -348.0,
+                        "width": 384.0,
+                        "height": 204.0
+                      },
+                      "fill": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.03999999910593033
+                      },
+                      "gradient": null,
+                      "effects": [],
+                      "image_url": null,
+                      "stroke": null,
+                      "stroke_width": null,
+                      "corner_radius_all": 1000.0,
+                      "corner_radius_tl": null,
+                      "corner_radius_tr": null,
+                      "corner_radius_br": null,
+                      "corner_radius_bl": null,
+                      "opacity": null,
+                      "text": null,
+                      "text_style": null,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "I4:427;5583:23997;5607:72657",
+                  "name": "Fill",
+                  "type": "FRAME",
+                  "bounds": {
+                    "x": 474.0,
+                    "y": -350.0,
+                    "width": 384.0,
+                    "height": 204.0
+                  },
+                  "fill": {
+                    "r": 0.20000000298023224,
+                    "g": 0.20000000298023224,
+                    "b": 0.20000000298023224,
+                    "a": 1.0
+                  },
+                  "gradient": null,
+                  "effects": [],
+                  "image_url": null,
+                  "stroke": null,
+                  "stroke_width": null,
+                  "corner_radius_all": 296.0,
+                  "corner_radius_tl": null,
+                  "corner_radius_tr": null,
+                  "corner_radius_br": null,
+                  "corner_radius_bl": null,
+                  "opacity": null,
+                  "text": null,
+                  "text_style": null,
+                  "children": []
+                },
+                {
+                  "id": "I4:427;5583:23997;5607:67567",
+                  "name": "Glass Effect",
+                  "type": "FRAME",
+                  "bounds": {
+                    "x": 474.0,
+                    "y": -350.0,
+                    "width": 384.0,
+                    "height": 204.0
+                  },
+                  "fill": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0010000000474974513
+                  },
+                  "gradient": null,
+                  "effects": [],
+                  "image_url": null,
+                  "stroke": null,
+                  "stroke_width": null,
+                  "corner_radius_all": 296.0,
+                  "corner_radius_tl": null,
+                  "corner_radius_tr": null,
+                  "corner_radius_br": null,
+                  "corner_radius_bl": null,
+                  "opacity": null,
+                  "text": null,
+                  "text_style": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "I4:427;5522:11872",
+              "name": "Text",
+              "type": "INSTANCE",
+              "bounds": {
+                "x": 652.0,
+                "y": -266.0,
+                "width": 28.0,
+                "height": 36.0
+              },
+              "fill": null,
+              "gradient": null,
+              "effects": [],
+              "image_url": null,
+              "stroke": null,
+              "stroke_width": null,
+              "corner_radius_all": 100.0,
+              "corner_radius_tl": null,
+              "corner_radius_tr": null,
+              "corner_radius_br": null,
+              "corner_radius_bl": null,
+              "opacity": null,
+              "text": null,
+              "text_style": null,
+              "children": [
+                {
+                  "id": "I4:427;5522:11872;5522:11881",
+                  "name": "Symbol",
+                  "type": "TEXT",
+                  "bounds": {
+                    "x": 652.0,
+                    "y": -259.0,
+                    "width": 28.0,
+                    "height": 22.0
+                  },
+                  "fill": {
+                    "r": 0.250980406999588,
+                    "g": 0.250980406999588,
+                    "b": 0.250980406999588,
+                    "a": 1.0
+                  },
+                  "gradient": null,
+                  "effects": [],
+                  "image_url": null,
+                  "stroke": null,
+                  "stroke_width": null,
+                  "corner_radius_all": null,
+                  "corner_radius_tl": null,
+                  "corner_radius_tr": null,
+                  "corner_radius_br": null,
+                  "corner_radius_bl": null,
+                  "opacity": null,
+                  "text": "\udbc0\udd85",
+                  "text_style": {
+                    "font_family": "SF Pro",
+                    "font_size": 19.0,
+                    "font_weight": 590,
+                    "line_height": 22.0,
+                    "letter_spacing": 0.0,
+                    "text_align": "CENTER"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4:481",
+          "name": "Button - Liquid Glass - Text",
+          "type": "INSTANCE",
+          "bounds": {
+            "x": 696.0,
+            "y": 50.0,
+            "width": 324.0,
+            "height": 229.0
+          },
+          "fill": null,
+          "gradient": null,
+          "effects": [],
+          "image_url": null,
+          "stroke": null,
+          "stroke_width": null,
+          "corner_radius_all": 1000.0,
+          "corner_radius_tl": null,
+          "corner_radius_tr": null,
+          "corner_radius_br": null,
+          "corner_radius_bl": null,
+          "opacity": null,
+          "text": null,
+          "text_style": null,
+          "children": [
+            {
+              "id": "I4:481;5583:24021",
+              "name": "BG",
+              "type": "INSTANCE",
+              "bounds": {
+                "x": 696.0,
+                "y": 50.0,
+                "width": 324.0,
+                "height": 229.0
+              },
+              "fill": null,
+              "gradient": null,
+              "effects": [],
+              "image_url": null,
+              "stroke": null,
+              "stroke_width": null,
+              "corner_radius_all": null,
+              "corner_radius_tl": null,
+              "corner_radius_tr": null,
+              "corner_radius_br": null,
+              "corner_radius_bl": null,
+              "opacity": null,
+              "text": null,
+              "text_style": null,
+              "children": [
+                {
+                  "id": "I4:481;5583:24021;5575:44983",
+                  "name": "Blur",
+                  "type": "FRAME",
+                  "bounds": {
+                    "x": 670.0,
+                    "y": 24.0,
+                    "width": 376.0,
+                    "height": 281.0
+                  },
+                  "fill": null,
+                  "gradient": null,
+                  "effects": [],
+                  "image_url": null,
+                  "stroke": null,
+                  "stroke_width": null,
+                  "corner_radius_all": null,
+                  "corner_radius_tl": null,
+                  "corner_radius_tr": null,
+                  "corner_radius_br": null,
+                  "corner_radius_bl": null,
+                  "opacity": 0.6700000166893005,
+                  "text": null,
+                  "text_style": null,
+                  "children": [
+                    {
+                      "id": "I4:481;5583:24021;5575:75442",
+                      "name": "Mask",
+                      "type": "INSTANCE",
+                      "bounds": {
+                        "x": 620.0,
+                        "y": -26.0,
+                        "width": 476.0,
+                        "height": 381.0
+                      },
+                      "fill": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                      },
+                      "gradient": null,
+                      "effects": [],
+                      "image_url": null,
+                      "stroke": null,
+                      "stroke_width": null,
+                      "corner_radius_all": null,
+                      "corner_radius_tl": null,
+                      "corner_radius_tr": null,
+                      "corner_radius_br": null,
+                      "corner_radius_bl": null,
+                      "opacity": null,
+                      "text": null,
+                      "text_style": null,
+                      "children": [
+                        {
+                          "id": "I4:481;5583:24021;5575:75442;5575:32354",
+                          "name": "Shape",
+                          "type": "RECTANGLE",
+                          "bounds": {
+                            "x": 696.0,
+                            "y": 50.0,
+                            "width": 324.0,
+                            "height": 229.0
+                          },
+                          "fill": {
+                            "r": 0.0,
+                            "g": 0.0,
+                            "b": 0.0,
+                            "a": 1.0
+                          },
+                          "gradient": null,
+                          "effects": [],
+                          "image_url": null,
+                          "stroke": null,
+                          "stroke_width": null,
+                          "corner_radius_all": 1000.0,
+                          "corner_radius_tl": null,
+                          "corner_radius_tr": null,
+                          "corner_radius_br": null,
+                          "corner_radius_bl": null,
+                          "opacity": null,
+                          "text": null,
+                          "text_style": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I4:481;5583:24021;5607:83258",
+                      "name": "Blur",
+                      "type": "FRAME",
+                      "bounds": {
+                        "x": 696.0,
+                        "y": 52.0,
+                        "width": 324.0,
+                        "height": 229.0
+                      },
+                      "fill": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.03999999910593033
+                      },
+                      "gradient": null,
+                      "effects": [],
+                      "image_url": null,
+                      "stroke": null,
+                      "stroke_width": null,
+                      "corner_radius_all": 1000.0,
+                      "corner_radius_tl": null,
+                      "corner_radius_tr": null,
+                      "corner_radius_br": null,
+                      "corner_radius_bl": null,
+                      "opacity": null,
+                      "text": null,
+                      "text_style": null,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "I4:481;5583:24021;5607:72657",
+                  "name": "Fill",
+                  "type": "FRAME",
+                  "bounds": {
+                    "x": 696.0,
+                    "y": 50.0,
+                    "width": 324.0,
+                    "height": 229.0
+                  },
+                  "fill": {
+                    "r": 0.20000000298023224,
+                    "g": 0.20000000298023224,
+                    "b": 0.20000000298023224,
+                    "a": 1.0
+                  },
+                  "gradient": null,
+                  "effects": [],
+                  "image_url": null,
+                  "stroke": null,
+                  "stroke_width": null,
+                  "corner_radius_all": 296.0,
+                  "corner_radius_tl": null,
+                  "corner_radius_tr": null,
+                  "corner_radius_br": null,
+                  "corner_radius_bl": null,
+                  "opacity": null,
+                  "text": null,
+                  "text_style": null,
+                  "children": []
+                },
+                {
+                  "id": "I4:481;5583:24021;5607:67567",
+                  "name": "Glass Effect",
+                  "type": "FRAME",
+                  "bounds": {
+                    "x": 696.0,
+                    "y": 50.0,
+                    "width": 324.0,
+                    "height": 229.0
+                  },
+                  "fill": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 0.0010000000474974513
+                  },
+                  "gradient": null,
+                  "effects": [],
+                  "image_url": null,
+                  "stroke": null,
+                  "stroke_width": null,
+                  "corner_radius_all": 296.0,
+                  "corner_radius_tl": null,
+                  "corner_radius_tr": null,
+                  "corner_radius_br": null,
+                  "corner_radius_bl": null,
+                  "opacity": null,
+                  "text": null,
+                  "text_style": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "I4:481;5473:26005",
+              "name": "Text",
+              "type": "INSTANCE",
+              "bounds": {
+                "x": 835.5,
+                "y": 146.5,
+                "width": 45.0,
+                "height": 36.0
+              },
+              "fill": null,
+              "gradient": null,
+              "effects": [],
+              "image_url": null,
+              "stroke": null,
+              "stroke_width": null,
+              "corner_radius_all": 100.0,
+              "corner_radius_tl": null,
+              "corner_radius_tr": null,
+              "corner_radius_br": null,
+              "corner_radius_bl": null,
+              "opacity": null,
+              "text": null,
+              "text_style": null,
+              "children": [
+                {
+                  "id": "I4:481;5473:26005;5522:11829",
+                  "name": "Symbol",
+                  "type": "TEXT",
+                  "bounds": {
+                    "x": 835.5,
+                    "y": 154.5,
+                    "width": 45.0,
+                    "height": 20.0
+                  },
+                  "fill": {
+                    "r": 0.250980406999588,
+                    "g": 0.250980406999588,
+                    "b": 0.250980406999588,
+                    "a": 1.0
+                  },
+                  "gradient": null,
+                  "effects": [],
+                  "image_url": null,
+                  "stroke": null,
+                  "stroke_width": null,
+                  "corner_radius_all": null,
+                  "corner_radius_tl": null,
+                  "corner_radius_tr": null,
+                  "corner_radius_br": null,
+                  "corner_radius_bl": null,
+                  "opacity": null,
+                  "text": "Label",
+                  "text_style": {
+                    "font_family": "SF Pro",
+                    "font_size": 17.0,
+                    "font_weight": 510,
+                    "line_height": 20.287109375,
+                    "letter_spacing": 0.0,
+                    "text_align": "CENTER"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2:364",
+          "name": "Button - Content Area",
+          "type": "INSTANCE",
+          "bounds": {
+            "x": 1189.0,
+            "y": -482.0,
+            "width": 358.0,
+            "height": 532.0
+          },
+          "fill": {
+            "r": 0.0,
+            "g": 0.5333333611488342,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "gradient": null,
+          "effects": [],
+          "image_url": null,
+          "stroke": null,
+          "stroke_width": null,
+          "corner_radius_all": 1000.0,
+          "corner_radius_tl": null,
+          "corner_radius_tr": null,
+          "corner_radius_br": null,
+          "corner_radius_bl": null,
+          "opacity": null,
+          "text": null,
+          "text_style": null,
+          "children": [
+            {
+              "id": "I2:364;488:49795",
+              "name": "Symbol",
+              "type": "TEXT",
+              "bounds": {
+                "x": 1345.0,
+                "y": -226.0,
+                "width": 14.0,
+                "height": 20.0
+              },
+              "fill": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              },
+              "gradient": null,
+              "effects": [],
+              "image_url": null,
+              "stroke": null,
+              "stroke_width": null,
+              "corner_radius_all": null,
+              "corner_radius_tl": null,
+              "corner_radius_tr": null,
+              "corner_radius_br": null,
+              "corner_radius_bl": null,
+              "opacity": null,
+              "text": "\udbc0\ude84",
+              "text_style": {
+                "font_family": "SF Pro",
+                "font_size": 15.0,
+                "font_weight": 400,
+                "line_height": 20.0,
+                "letter_spacing": -0.23000000417232513,
+                "text_align": "CENTER"
+              },
+              "children": []
+            },
+            {
+              "id": "I2:364;488:49796",
+              "name": "Label",
+              "type": "TEXT",
+              "bounds": {
+                "x": 1362.0,
+                "y": -226.0,
+                "width": 29.0,
+                "height": 20.0
+              },
+              "fill": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              },
+              "gradient": null,
+              "effects": [],
+              "image_url": null,
+              "stroke": null,
+              "stroke_width": null,
+              "corner_radius_all": null,
+              "corner_radius_tl": null,
+              "corner_radius_tr": null,
+              "corner_radius_br": null,
+              "corner_radius_bl": null,
+              "opacity": null,
+              "text": "Play",
+              "text_style": {
+                "font_family": "SF Pro",
+                "font_size": 15.0,
+                "font_weight": 400,
+                "line_height": 20.0,
+                "letter_spacing": -0.23000000417232513,
+                "text_align": "LEFT"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "I4:427;5583:23997;5575:44983",
+      "name": "Blur",
+      "type": "FRAME",
+      "bounds": {
+        "x": 448.0,
+        "y": -376.0,
+        "width": 436.0,
+        "height": 256.0
+      },
+      "fill": null,
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": null,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": 0.6700000166893005,
+      "text": null,
+      "text_style": null,
+      "children": [
+        {
+          "id": "I4:427;5583:23997;5575:75442",
+          "name": "Mask",
+          "type": "INSTANCE",
+          "bounds": {
+            "x": 398.0,
+            "y": -426.0,
+            "width": 536.0,
+            "height": 356.0
+          },
+          "fill": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "gradient": null,
+          "effects": [],
+          "image_url": null,
+          "stroke": null,
+          "stroke_width": null,
+          "corner_radius_all": null,
+          "corner_radius_tl": null,
+          "corner_radius_tr": null,
+          "corner_radius_br": null,
+          "corner_radius_bl": null,
+          "opacity": null,
+          "text": null,
+          "text_style": null,
+          "children": [
+            {
+              "id": "I4:427;5583:23997;5575:75442;5575:32354",
+              "name": "Shape",
+              "type": "RECTANGLE",
+              "bounds": {
+                "x": 474.0,
+                "y": -350.0,
+                "width": 384.0,
+                "height": 204.0
+              },
+              "fill": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              },
+              "gradient": null,
+              "effects": [],
+              "image_url": null,
+              "stroke": null,
+              "stroke_width": null,
+              "corner_radius_all": 1000.0,
+              "corner_radius_tl": null,
+              "corner_radius_tr": null,
+              "corner_radius_br": null,
+              "corner_radius_bl": null,
+              "opacity": null,
+              "text": null,
+              "text_style": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "I4:427;5583:23997;5607:83258",
+          "name": "Blur",
+          "type": "FRAME",
+          "bounds": {
+            "x": 474.0,
+            "y": -348.0,
+            "width": 384.0,
+            "height": 204.0
+          },
+          "fill": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.03999999910593033
+          },
+          "gradient": null,
+          "effects": [],
+          "image_url": null,
+          "stroke": null,
+          "stroke_width": null,
+          "corner_radius_all": 1000.0,
+          "corner_radius_tl": null,
+          "corner_radius_tr": null,
+          "corner_radius_br": null,
+          "corner_radius_bl": null,
+          "opacity": null,
+          "text": null,
+          "text_style": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "I4:427;5583:23997;5607:83258",
+      "name": "Blur",
+      "type": "FRAME",
+      "bounds": {
+        "x": 474.0,
+        "y": -348.0,
+        "width": 384.0,
+        "height": 204.0
+      },
+      "fill": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.03999999910593033
+      },
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": 1000.0,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": null,
+      "text": null,
+      "text_style": null,
+      "children": []
+    },
+    {
+      "id": "I4:427;5583:23997;5607:72657",
+      "name": "Fill",
+      "type": "FRAME",
+      "bounds": {
+        "x": 474.0,
+        "y": -350.0,
+        "width": 384.0,
+        "height": 204.0
+      },
+      "fill": {
+        "r": 0.20000000298023224,
+        "g": 0.20000000298023224,
+        "b": 0.20000000298023224,
+        "a": 1.0
+      },
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": 296.0,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": null,
+      "text": null,
+      "text_style": null,
+      "children": []
+    },
+    {
+      "id": "I4:427;5583:23997;5607:67567",
+      "name": "Glass Effect",
+      "type": "FRAME",
+      "bounds": {
+        "x": 474.0,
+        "y": -350.0,
+        "width": 384.0,
+        "height": 204.0
+      },
+      "fill": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0010000000474974513
+      },
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": 296.0,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": null,
+      "text": null,
+      "text_style": null,
+      "children": []
+    },
+    {
+      "id": "I4:481;5583:24021;5575:44983",
+      "name": "Blur",
+      "type": "FRAME",
+      "bounds": {
+        "x": 670.0,
+        "y": 24.0,
+        "width": 376.0,
+        "height": 281.0
+      },
+      "fill": null,
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": null,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": 0.6700000166893005,
+      "text": null,
+      "text_style": null,
+      "children": [
+        {
+          "id": "I4:481;5583:24021;5575:75442",
+          "name": "Mask",
+          "type": "INSTANCE",
+          "bounds": {
+            "x": 620.0,
+            "y": -26.0,
+            "width": 476.0,
+            "height": 381.0
+          },
+          "fill": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "gradient": null,
+          "effects": [],
+          "image_url": null,
+          "stroke": null,
+          "stroke_width": null,
+          "corner_radius_all": null,
+          "corner_radius_tl": null,
+          "corner_radius_tr": null,
+          "corner_radius_br": null,
+          "corner_radius_bl": null,
+          "opacity": null,
+          "text": null,
+          "text_style": null,
+          "children": [
+            {
+              "id": "I4:481;5583:24021;5575:75442;5575:32354",
+              "name": "Shape",
+              "type": "RECTANGLE",
+              "bounds": {
+                "x": 696.0,
+                "y": 50.0,
+                "width": 324.0,
+                "height": 229.0
+              },
+              "fill": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              },
+              "gradient": null,
+              "effects": [],
+              "image_url": null,
+              "stroke": null,
+              "stroke_width": null,
+              "corner_radius_all": 1000.0,
+              "corner_radius_tl": null,
+              "corner_radius_tr": null,
+              "corner_radius_br": null,
+              "corner_radius_bl": null,
+              "opacity": null,
+              "text": null,
+              "text_style": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "I4:481;5583:24021;5607:83258",
+          "name": "Blur",
+          "type": "FRAME",
+          "bounds": {
+            "x": 696.0,
+            "y": 52.0,
+            "width": 324.0,
+            "height": 229.0
+          },
+          "fill": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.03999999910593033
+          },
+          "gradient": null,
+          "effects": [],
+          "image_url": null,
+          "stroke": null,
+          "stroke_width": null,
+          "corner_radius_all": 1000.0,
+          "corner_radius_tl": null,
+          "corner_radius_tr": null,
+          "corner_radius_br": null,
+          "corner_radius_bl": null,
+          "opacity": null,
+          "text": null,
+          "text_style": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "I4:481;5583:24021;5607:83258",
+      "name": "Blur",
+      "type": "FRAME",
+      "bounds": {
+        "x": 696.0,
+        "y": 52.0,
+        "width": 324.0,
+        "height": 229.0
+      },
+      "fill": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.03999999910593033
+      },
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": 1000.0,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": null,
+      "text": null,
+      "text_style": null,
+      "children": []
+    },
+    {
+      "id": "I4:481;5583:24021;5607:72657",
+      "name": "Fill",
+      "type": "FRAME",
+      "bounds": {
+        "x": 696.0,
+        "y": 50.0,
+        "width": 324.0,
+        "height": 229.0
+      },
+      "fill": {
+        "r": 0.20000000298023224,
+        "g": 0.20000000298023224,
+        "b": 0.20000000298023224,
+        "a": 1.0
+      },
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": 296.0,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": null,
+      "text": null,
+      "text_style": null,
+      "children": []
+    },
+    {
+      "id": "I4:481;5583:24021;5607:67567",
+      "name": "Glass Effect",
+      "type": "FRAME",
+      "bounds": {
+        "x": 696.0,
+        "y": 50.0,
+        "width": 324.0,
+        "height": 229.0
+      },
+      "fill": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0010000000474974513
+      },
+      "gradient": null,
+      "effects": [],
+      "image_url": null,
+      "stroke": null,
+      "stroke_width": null,
+      "corner_radius_all": 296.0,
+      "corner_radius_tl": null,
+      "corner_radius_tr": null,
+      "corner_radius_br": null,
+      "corner_radius_bl": null,
+      "opacity": null,
+      "text": null,
+      "text_style": null,
+      "children": []
+    }
+  ],
+  "tokens": {
+    "spacing": {
+      "md": 16,
+      "lg": 24
+    }
+  }
+}
