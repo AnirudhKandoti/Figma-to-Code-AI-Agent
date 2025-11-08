@@ -88,7 +88,9 @@ python -m venv .venv
 pip install -r requirements.txt
 
 
-Environment Variables
+
+```
+## Environment Variables
 Create a .env inside figma-to-code-ai-agent/:
 ```
 ini
@@ -99,19 +101,20 @@ FIGMA_FILE_ID=QbazU5XqmK1hTsJIYhoVwt     # your /file/ or /design/ key (not /mak
 MODEL_NAME=gemini-2.0-flash              # or gemini-1.5-pro if available
 HTTP_TIMEOUT=30
 ```
-Usage
+## Usage
 
 All commands below are executed from:
-
+```
 C:\Anirudh Projects\figma-to-code-ai-agent-v2 (1)\figma-to-code-ai-agent
-
-A) Deterministic Web Export (HTML/CSS/JS)
+```
+## A) Deterministic Web Export (HTML/CSS/JS)
 ```
 python -m agent.main --out ..\exported-web --format web --deterministic
 # Open the result in your browser:
 explorer "..\exported-web\index.html"
 ```
-Output:
+## Output:
+```
 exported-web/
 
 index.html – absolute-positioned DOM mirroring your Figma frame(s)
@@ -123,8 +126,8 @@ script.js – empty starter for your logic
 ui-schema.json – normalized schema we generated
 
 assets/ – downloaded images used for image fills
-
-B) AI React Export (Gemini + Vite)
+```
+## B) AI React Export (Gemini + Vite)
 ```
 # Generate React code (TSX) with Gemini
 python -m agent.main --out ..\generated-ui --framework react
@@ -134,11 +137,10 @@ cd "..\generated-ui"
 npm install
 npm run dev
 # visit http://localhost:5173
-
-
-Project Structure
-
 ```
+
+## Project Structure:
+
 ```
 
 figma-to-code-ai-agent-v2 (1)/
@@ -159,7 +161,7 @@ figma-to-code-ai-agent-v2 (1)/
 ```
 
 
-Troubleshooting:
+## Troubleshooting:
 
 1. 403 Invalid token
 
