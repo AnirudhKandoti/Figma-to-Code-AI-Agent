@@ -135,7 +135,9 @@ npm install
 npm run dev
 # visit http://localhost:5173
 ```
+
 Project Structure
+
 ```
 figma-to-code-ai-agent-v2 (1)/
 ├─ figma-to-code-ai-agent/
@@ -152,7 +154,7 @@ figma-to-code-ai-agent-v2 (1)/
 │  └─ .env                       # your secrets (NOT committed)
 ├─ exported-web/                 # output of deterministic web export
 └─ generated-ui/                 # output of AI React export (Vite app)
-```
+
 How It Works (High Level)
 
 Fetch Figma: we call /v1/files/<FILE_KEY> (+ /v1/images for image fills) using your PAT.
